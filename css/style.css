@@ -409,7 +409,11 @@ body {
 	color: #2d9c45;
 	text-shadow: 0 0 15px #ffffff;
 }
-.fab {
+.fa-envelope:hover{
+	color: #b0440a;
+	text-shadow: 0 0 15px #ffffff;
+}
+.fab, .fas {
  border-radius: 50%;
  color: rgba(227, 228, 230, 0.55);
 }
